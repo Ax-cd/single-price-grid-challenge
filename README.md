@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./single-price-grid-screenshot.png)
+![](images/single-price-grid-screenshot.png)
 
 
 ### Links
