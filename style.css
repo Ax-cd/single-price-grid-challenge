@@ -122,6 +122,12 @@ button {
     border-radius: 5px;
     box-shadow: 0 3px 5px hsl(179, 62%, 39%);
 }
+@media (min-width: 40em) {
+    button:hover {
+        background-color: hsl(71, 61%, 38%);
+    }
+}
+
 
 
 /* SECTION 3 */
