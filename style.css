@@ -30,8 +30,6 @@ main {
     main {
         max-width: 40%;
         display: grid;
-        grid-template-areas: ".introduction"
-        ".subscription .presentation";
     }
 }
 
