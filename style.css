@@ -28,6 +28,12 @@ main {
 }
 @media (min-width: 40em) {
     main {
+        max-width: 60%;
+        display: grid;
+    }
+}
+@media (min-width: 80em) {
+    main {
         max-width: 40%;
         display: grid;
     }
