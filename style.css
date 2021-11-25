@@ -102,6 +102,11 @@ h1 {
 .details {
     font-size: 1.3rem;
 }
+@media (min-width: 40em) {
+    .details {
+        font-size: 1.5rem;
+    }
+}
 
 button {
     background-color: hsl(71, 73%, 54%);
@@ -113,7 +118,6 @@ button {
     border-radius: 5px;
     box-shadow: 0 3px 5px hsl(179, 62%, 39%);
 }
-
 
 
 /* SECTION 3 */
@@ -138,6 +142,7 @@ button {
 .presentation li {
     list-style: none;
 }
+
 
 
 /* FOOTER */
